@@ -16,4 +16,4 @@ Projeyi kendi bilgisayarınızda çalıştırmak için:
 2. Gerekli kütüphaneleri kurun:
    `pip install -r requirements.txt`
 3. Uygulamayı başlatın:
-   `python arayuz.py`
+   `python scrapper.py`
